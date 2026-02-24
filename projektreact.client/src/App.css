@@ -1,0 +1,137 @@
+﻿.logo {
+    width: 35px;
+    height: 35px;
+    margin-right: 10px;
+}
+a {
+    text-decoration: none;
+    color: unset;
+}
+.offcanvas-menu {
+    width: 250px;
+}
+.menu-button {
+    position: fixed;
+    top: 5px;
+    left: 20px;
+    z-index: 1000;
+}
+.margines {
+    margin-top: 80px;
+}
+.projektreact {
+    font-family: 'Indie Flower', cursive;
+    font-size: 28px;
+    font-weight: bold;
+    color: #333;
+    text-decoration: none;
+    margin-left: 10px;
+}
+.tabsy {
+    font-weight: bold;
+    font-size: 24px;
+    color: #105ba433
+}
+.card-image {
+    max-width: 100%;
+    height: 450px;
+}
+body {
+    background-image: url('/bluee.jpg');
+    background-size: 100% 250%;
+    background-repeat: no-repeat;
+}
+.link-card {
+    width: 33.33%;
+    display: inline-block;
+}
+.welcome-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.welcome-message {
+    padding: 10px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+    margin-bottom: 20px;
+}
+.welcome-message h2 {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+.carousel-container {
+    margin-top: 25px;
+}
+.carousel-container carousel-image {
+    max-width: 100%;
+    height: auto;
+}
+.carousel {
+    max-width: 800px;
+    margin: auto;
+}
+.carousel img {
+    width: 100%;
+    height: auto;
+}
+.carousel-caption.shadow-font h3 {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+    border-radius: 25px;
+    color: white;
+}
+.carousel-caption.shadow-font h5 {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+    border-radius: 25px;
+    color: white;
+}
+
+.custom-calendar .rbc-toolbar {
+    background-color: #b3e0ff;
+    color: white;
+}
+
+.custom-calendar .rbc-month-view {
+    background-color: #e6f7ff;
+}
+
+.custom-calendar .rbc-time-view {
+    background-color: #e6f7ff;
+}
+
+.custom-calendar .rbc-time-view {
+    background-color: #e6f7ff;
+}
+
+.custom-calendar .rbc-agenda-view {
+    background-color: #e6f7ff;
+}
+
+.custom-calendar .rbc-day-bg,
+.custom-calendar .rbc-day-slot .rbc-time-slot {
+    background-color: #e6f7ff;
+}
+
+.custom-calendar .rbc-today {
+    background-color: #b3e0ff;
+}
+
+.custom-calendar .rbc-off-range-bg {
+    background-color: #d9d9d9;
+}
+
+.custom-calendar .rbc-selected-cell {
+    background-color: #99ccff;
+}
+
+.table-dark {
+    background-color: #f8f9fa;
+}
+
+.table-success {
+    background-color: #d4edda;
+}
