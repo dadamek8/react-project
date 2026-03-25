@@ -23,11 +23,6 @@ React + TypeScript
 /hooks
 /api
 
-## API
-
-Backend available here:
-(link)
-
 ## Features
 
 ✔ CRUD  
