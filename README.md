@@ -27,9 +27,7 @@ React + TypeScript
 
 ✔ CRUD  
 ✔ REST API  
-✔ Axios  
 ✔ React hooks  
 ✔ TypeScript  
 ✔ Form validation  
-✔ Error handling  
-✔ Loading states
+✔ Error handling 
